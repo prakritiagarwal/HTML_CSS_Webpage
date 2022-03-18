@@ -27,29 +27,7 @@ ul {
     list-style: none;
 }
 
-.search-bar {
-    padding-left: 20px;
-    padding-right: 40px;
-}
 
-.searchIcon {
-    padding: 5px;
-    width: 12px;
-}
-.cartIcon {
-    width: 30px;
-}
-
-.login {
-    justify-content: center;
-    align-items: flex-start;
-    flex-direction: column;
-}
-
-.login-txt {
-    padding: 0;
-    margin: 0;
-}
 
 .logo {
     align-items: center;
@@ -70,8 +48,4 @@ ul {
     align-items: center;
   }
   
-  .item {
-    width: 200px;
-    height: 40px;
-    margin-bottom: 10px;
-  }
+  
